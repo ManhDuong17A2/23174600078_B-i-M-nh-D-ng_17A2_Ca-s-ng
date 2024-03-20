@@ -2,7 +2,6 @@ a1,b1=map(float,input('nhap he so goc và he so tu do:  ').split(','))
 m,n,p=map (float,input('nhap toa do tam m,n ban kinh p:    ').split(','))
 '''
 y=a1x +b1 
-
 '''
 if a1==0:
    y=0
@@ -39,3 +38,4 @@ if k>p:
      print ('dt nằm ngoài dtron ')
 if k<p:
      print ('dt cắt dtron')
+     

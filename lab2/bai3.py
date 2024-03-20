@@ -2,10 +2,8 @@ a=int(input("nhap vao so nguyen co 3 chu so: "))
 sohangtram=a//100 
 sohangchuc=(a-((a//100)*100))//10
 sohangdv=a-(a//100)*100-(((a-((a//100)*100))//10)*10)
-print (sohangtram)
-print (sohangchuc)
-print (sohangdv)
 hundred_and='hundred and'
+
 if sohangtram==1:
     m='A'
 if sohangtram==2:
