@@ -3,7 +3,6 @@ sohangtram=a//100
 sohangchuc=(a-((a//100)*100))//10
 sohangdv=a-(a//100)*100-(((a-((a//100)*100))//10)*10)
 hundred_and='hundred and'
-
 if sohangtram==1:
     m='A'
 if sohangtram==2:
