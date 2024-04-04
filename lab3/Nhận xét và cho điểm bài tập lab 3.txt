@@ -1,0 +1,28 @@
+- Bài 1: 
+a) đúng
+b) đúng
+c) nếu em xét điều kiện là các số chẵn đưa vào tổng
+Vậy nếu n = 5 thì tổng của chúng ta sẽ là S = 1/2 + 1/4
+Tuy nhiên đề bài tổng đúng cô yêu cầu sẽ là S = 1/2 + 1/4 + 1/6 + 1/8 + 1/10
+d) đúng
+Điểm bài tập: 1.5 
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) đúng
+c) đúng
+d) đúng. Nhưng em không cần tạo một biến là sohh = -1, vì nếu tong == i thì em sẽ in ra i luôn
+e) đúng
+Điểm bài tập: 5.0
+
+- Bài 4:
+a) đúng
+b) đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 3: 9.5
